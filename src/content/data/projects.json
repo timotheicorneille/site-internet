@@ -2,31 +2,31 @@
   "projects": [
     {
       "name": "Persona.fm",
-      "description": "A full stack Next.js application that uses the Last.FM API to show users snapshots of their listening habits.",
+      "description": "Une application Next.js full stack qui utilise l'API Last.FM pour montrer aux utilisateurs des instantanés de leurs habitudes d'écoute.",
       "link": "https://github.com/raspberri05/persona.fm",
       "langs": "TypeScript,JavaScript,HTML,CSS,PostgreSQL-Dark",
       "tools": "NextJS-Dark,TailwindCSS-Dark,Supabase-Dark,React-Dark,Figma-Dark,Markdown-Dark",
-      "date": "Summer 2024 - Present",
+      "date": "Été 2024 - Présent",
       "custom": {
-        "text": "View live site",
+        "text": "Voir le site en direct",
         "link": "https://personafm.vercel.app"
       }
     },
     {
       "name": "QDev",
-      "description": "A Python CLI tool that processes a user's natural language input to generate various terminal commands that are helpful when setting up a project.",
+      "description": "Un outil CLI Python qui traite l'entrée en langage naturel de l'utilisateur pour générer diverses commandes de terminal utiles lors de la configuration d'un projet.",
       "link": "https://github.com/raspberri05/qdev",
-      "date": "Fall 2024 - Present",
+      "date": "Automne 2024 - Présent",
       "langs": "Python-Dark,Bash-Dark",
       "tools": "FastAPI"
     },
     {
       "name": "ChairSense",
-      "description": "For wheelchair users, it can be hard to see what's behind the chair, especially when backing up or turning, which can be dangerous because there is a high potential to hit an object or person. The aim of this project is to solve that problem by creating a low-cost device that can detect obstacles and warn the wheelchair user so they don't hit objects or people.",
+      "description": "Pour les utilisateurs de fauteuils roulants, il peut être difficile de voir ce qui se trouve derrière le fauteuil, surtout en reculant ou en tournant, ce qui peut être dangereux car il y a un risque élevé de heurter un objet ou une personne. Le but de ce projet est de résoudre ce problème en créant un dispositif à faible coût qui peut détecter les obstacles et avertir l'utilisateur du fauteuil roulant afin qu'il ne heurte pas d'objets ou de personnes.",
       "link": "https://github.com/raspberri05/chairSense",
       "langs": "CPP",
       "tools": "Arduino",
-      "date": "Fall 2021"
+      "date": "Automne 2021"
     }
   ]
 }

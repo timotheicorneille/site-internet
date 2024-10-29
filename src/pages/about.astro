@@ -6,23 +6,21 @@ import { Image } from "astro:assets";
 import favicon from "@/assets/favicon.jpg";
 ---
 
-<PageLayout title="About" header="About Me">
+<PageLayout title="À propos" header="À propos">
   <div class="flex flex-col md:flex-row gap-6 items-center">
     <div class="flex flex-col items-center">
       <Image
         src={favicon}
-        alt="Square portrait of Naya Singhania"
+        alt="Image de Timotheï Corneille"
         class="max-w-60 max-h-60 rounded-md"
       />
-      <br />
-      <LinkBtn text="View Resume" href={resume} target="_blank" />
+      <LinkBtn text="Voir mon CV" href={resume} target="_blank" />
     </div>
     <div>
       {
         paragraphs.map((paragraph) => (
           <>
-            <p>{paragraph}</p>
-            <br />
+            <p class="pb-3.5">{paragraph}</p>
           </>
         ))
       }

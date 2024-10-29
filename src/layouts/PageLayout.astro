@@ -5,10 +5,7 @@ const { title, header } = Astro.props;
 
 <DefaultLayout title={title}>
   <div class="pr-10 md:pl-10">
-    <br />
-    <br />
-    <h1>{header}</h1>
-    <br />
+    <h1 class="pb-4 pt-15">{header}</h1>
     <slot />
   </div>
 </DefaultLayout>
