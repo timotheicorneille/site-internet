@@ -1,32 +1,24 @@
 {
   "projects": [
     {
-      "name": "Persona.fm",
-      "description": "Une application Next.js full stack qui utilise l'API Last.FM pour montrer aux utilisateurs des instantanés de leurs habitudes d'écoute.",
-      "link": "https://github.com/raspberri05/persona.fm",
-      "langs": "TypeScript,JavaScript,HTML,CSS,PostgreSQL-Dark",
-      "tools": "NextJS-Dark,TailwindCSS-Dark,Supabase-Dark,React-Dark,Figma-Dark,Markdown-Dark",
-      "date": "Été 2024 - Présent",
+      "name": "Lumo",
+      "description": "Une plateforme interactive de type Kahoot développée avec React permettant la création et la participation à des quiz en temps réel. Ce projet d'étude m'a également permis d'appliquer des notions de gestion de projet et de DevOps (pipeline CI/CD).",
+      "link": "https://github.com/LumoSAE/",
+      "langs": "JavaScript,HTML,CSS,MongoDB",
+      "tools": "React-Dark,TailwindCSS-Dark,ExpressJS-Dark,GithubActions-Dark",
+      "date": "Octobre 2024 - Présent",
       "custom": {
         "text": "Voir le site en direct",
-        "link": "https://personafm.vercel.app"
+        "link": "https://lumo.ovh"
       }
     },
     {
-      "name": "QDev",
-      "description": "Un outil CLI Python qui traite l'entrée en langage naturel de l'utilisateur pour générer diverses commandes de terminal utiles lors de la configuration d'un projet.",
-      "link": "https://github.com/raspberri05/qdev",
+      "name": "Site internet de prise de rendez-vous de taxi",
+      "link": "https://github.com/timotheicorneille/site-taxi",
+      "description": "Application web de réservation de taxi développée avec Next.js permettant aux utilisateurs de planifier et gérer leurs courses de manière intuitive.",
       "date": "Automne 2024 - Présent",
-      "langs": "Python-Dark,Bash-Dark",
-      "tools": "FastAPI"
-    },
-    {
-      "name": "ChairSense",
-      "description": "Pour les utilisateurs de fauteuils roulants, il peut être difficile de voir ce qui se trouve derrière le fauteuil, surtout en reculant ou en tournant, ce qui peut être dangereux car il y a un risque élevé de heurter un objet ou une personne. Le but de ce projet est de résoudre ce problème en créant un dispositif à faible coût qui peut détecter les obstacles et avertir l'utilisateur du fauteuil roulant afin qu'il ne heurte pas d'objets ou de personnes.",
-      "link": "https://github.com/raspberri05/chairSense",
-      "langs": "CPP",
-      "tools": "Arduino",
-      "date": "Automne 2021"
+      "langs": "JavaScript,HTML,CSS",
+      "tools": "NextJS-Dark,TailwindCSS-Dark,React-Dark,GithubActions-Dark"
     }
   ]
 }
